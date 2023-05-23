@@ -1,9 +1,9 @@
 import Area from "../Common/Area";
 
-export function Frase() {
+export default function Citation() {
   return (
     <Area className="bg-gray-100 py-8">
-      <h3 className="text-sm text-center text-primary italic">
+      <h3 className="text-base text-center text-primary italic">
         {`"Você não vai mudar os seus hábitos da noite pro dia, mas você precisa
           começar!"`}
       </h3>

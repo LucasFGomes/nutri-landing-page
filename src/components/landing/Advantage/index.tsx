@@ -6,7 +6,7 @@ export default function Advantage() {
     {
       title: "Educação nutricional",
       description:
-        "Um nutricionista pode fornecer educação nutricional para ajudá-lo a entender melhor como os alimentos afetam seu corpo, quais são os nutrientes essenciais e como fazer escolhas alimentares saudáveis em diferentes situações.",
+        "Podemos fornecer educação nutricional para ajudá-lo a entender melhor como os alimentos afetam seu corpo, quais são os nutrientes essenciais e como fazer escolhas alimentares saudáveis em diferentes situações.",
       url: "/foto07.jpg",
       imageWidth: 140,
       imageHeight: 50,
@@ -14,7 +14,7 @@ export default function Advantage() {
     {
       title: "Prevenção de doenças",
       description:
-        "A nutrição adequada pode ajudar a prevenir várias doenças crônicas, como obesidade, diabetes tipo 2, doenças cardíacas e tipos de câncer. Um nutricionista pode ajudá-lo a adotar um estilo de vida alimentar saudável.",
+        "A nutrição adequada pode ajudar a prevenir várias doenças crônicas, como obesidade, diabetes tipo 2, doenças cardíacas e tipos de câncer. Podemos ajudá-lo a adotar um estilo de vida alimentar saudável.",
       url: "/foto-prevencao-doencas.jpg",
       imageWidth: 140,
       imageHeight: 50,
@@ -22,7 +22,7 @@ export default function Advantage() {
     {
       title: "Orientação personalizada",
       description:
-        "Cada indivíduo tem necessidades nutricionais únicas e um nutricionista pode ajudá-lo a entender e atender essas necessidades específicas. Eles podem avaliar sua saúde atual, histórico alimentar ",
+        "Cada indivíduo tem necessidades nutricionais únicas e um nutricionista pode ajudá-lo a entender e atender essas necessidades específicas. Podemos avaliar sua saúde atual, histórico alimentar.",
       url: "/foto08.jpg",
       imageWidth: 140,
       imageHeight: 50,

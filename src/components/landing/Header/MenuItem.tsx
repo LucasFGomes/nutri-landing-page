@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 interface MenuItemProps {
   children: string;
   url: string;
@@ -9,12 +7,12 @@ interface MenuItemProps {
 
 export default function MenuItem({ children, url }: MenuItemProps) {
   return (
-    <Link
+    <a
       href={url}
       title={children}
-      className="text-second hover:text-primary block px-3 py-2 rounded-md text-base font-medium"
+      className="text-second hover:text-primary block px-3 py-2 rounded-md text-base font-medium scroll-smooth"
     >
       {children}
-    </Link>
+    </a>
   );
 }

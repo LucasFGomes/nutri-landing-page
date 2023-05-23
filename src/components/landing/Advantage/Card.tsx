@@ -16,13 +16,12 @@ export default function Card({
   imageHeight,
 }: CardProps) {
   return (
-    <div className="flex flex-row bg-background shadow-md rounded overflow-hidden">
+    <div className="flex flex-row bg-background shadow-md rounded overflow-hidden h-[30vh]">
       <Image
         src={url}
         alt="Principal"
         width={imageWidth}
         height={imageHeight}
-        className="object-cover"
       />
       <div className="flex flex-col items-start gap-4 p-4">
         <h3 className="font-semibold text-base text-primary">{title}</h3>

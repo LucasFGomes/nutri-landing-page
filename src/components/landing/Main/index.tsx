@@ -8,6 +8,7 @@ export default function Main() {
   return (
     <Area className="bg-gray-100">
       <div
+        id="home"
         className={`
             flex items-center justify-around 
             h-[60vh]
