@@ -17,7 +17,7 @@ export default function Footer() {
             Cuidando bem da sua{" "}
             <span className="font-bold text-second">saúde</span>
           </div>
-          <div>renataferreiranutri@gmail.com</div>
+          <div>renataferreiraanutri@gmail.com</div>
         </div>
       </div>
       <div className="flex flex-col md:flex-row md:justify-between items-center mt-4">

@@ -8,7 +8,7 @@ export default function Citation() {
           começar!"`}
       </h3>
       <p className="text-xs text-center text-primary">
-        Nutricionista Renata Ferreira - CRN 43501/PE
+        Nutricionista Renata Ferreira - CRN 43501/P
       </p>
     </Area>
   );

@@ -6,7 +6,7 @@ export default function SocialNetworks() {
     <div className="flex">
       <SocialNetwork
         icone={<IconBrandInstagram />}
-        url="https://www.instagram.com/renataferreiraag"
+        url="https://www.instagram.com/renataferreiraa.nutri/"
       />
       <SocialNetwork
         icone={<IconBrandWhatsapp />}
