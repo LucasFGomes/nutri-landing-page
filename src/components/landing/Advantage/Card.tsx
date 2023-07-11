@@ -16,7 +16,7 @@ export default function Card({
   imageHeight,
 }: CardProps) {
   return (
-    <div className="flex flex-row bg-background shadow-md rounded overflow-hidden h-[30vh]">
+    <div className="flex flex-row bg-background shadow-md rounded overflow-hidden">
       <Image
         src={url}
         alt="Principal"
