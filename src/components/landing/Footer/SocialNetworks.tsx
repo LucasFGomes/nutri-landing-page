@@ -10,7 +10,7 @@ export default function SocialNetworks() {
       />
       <SocialNetwork
         icone={<IconBrandWhatsapp />}
-        url="https://api.whatsapp.com/send?phone=5581988390171&text=Oi%2C%20eu%20gostaria%20de%20agendar%20uma%20consulta%21"
+        url="https://api.whatsapp.com/send?phone=5581991466717&text=Oi%2C%20eu%20gostaria%20de%20agendar%20uma%20consulta%21"
       />
     </div>
   );
